@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Adios",
+  "base_artist": "EVERGLOW",
+  "createdAt": "2026-03-26T13:38:34.980997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Adios to California",
+      "artist": "John Hiatt",
+      "has_synced": true,
+      "path": "select/01_Adios_to_California_John_Hiatt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cada Vez Que Digo Adios",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/02_Cada_Vez_Que_Digo_Adios_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cada Vez Que Digo Adiós",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/03_Cada_Vez_Que_Digo_Adiós_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Adios Hermanos",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/04_Adios_Hermanos_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Adiós Princesa",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/05_Adiós_Princesa_José_José.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adios Ayer - Original Mix",
+      "artist": "José Padilla",
+      "has_synced": false,
+      "path": "select/06_Adios_Ayer_-_Original_Mix_José_Padilla.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Adios Ayer (Original Mix)",
+      "artist": "José Padilla",
+      "has_synced": false,
+      "path": "select/07_Adios_Ayer_(Original_Mix)_José_Padilla.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sin un Adios",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/08_Sin_un_Adios_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ciao Adios",
+      "artist": "Anne-Marie",
+      "has_synced": true,
+      "path": "select/09_Ciao_Adios_Anne-Marie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ciao Adiós",
+      "artist": "Anne‐Marie",
+      "has_synced": true,
+      "path": "select/10_Ciao_Adiós_Anne‐Marie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Adios Ayer (original version)",
+      "artist": "José Padilla",
+      "has_synced": false,
+      "path": "select/11_Adios_Ayer_(original_version)_José_Padilla.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Adios Ayer (Zuell remix)",
+      "artist": "José Padilla",
+      "has_synced": false,
+      "path": "select/12_Adios_Ayer_(Zuell_remix)_José_Padilla.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Adios Ayer 2001",
+      "artist": "José Padilla",
+      "has_synced": true,
+      "path": "select/13_Adios_Ayer_2001_José_Padilla.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Adios",
+      "artist": "EVERGLOW",
+      "has_synced": false,
+      "path": "select/pl_01_Adios_EVERGLOW.txt"
+    }
+  ]
+}
