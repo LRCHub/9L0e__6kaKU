@@ -1,0 +1,80 @@
+# EVERGLOW – Adios
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+EVERGLOW
+Ah 나 Ah 나
+안녕 이란 말이 no no
+만날 때 하는 인사뿐이니
+no no
+상황 파악 안되지
+yeah yeah
+안 보이게 숨으라는 뜻
+그만 사라지란 뜻
+셋 셀 테니 어서 빨리 서둘러
+yeah yeah
+변명거린 거기까지 충분해
+blah blah
+더 가능하면
+아주 멀리 떠나줬으면 해
+I just wanna let you know
+내 두 눈에 띄지 않게
+왜 넌 날 작아지게 해
+난 늘 널 맴돌기만 해
+왜 넌 날 슬퍼지게 해
+처음부터 주인공은 나였어야 해
+Goodbye Au Revoir Adios
+what
+Goodbye Au Revoir Adios
+yeah
+Goodbye Au Revoir Adios
+sh
+Goodbye Au Revoir Adios
+Goodbye Au Revoir Adios
+Lalalala oh— hey
+See You Later 다 필요 없어
+See You Later
+Goodbye Au Revoir Adios
+See You Later 다 필요 없어
+See You Later
+Goodbye Au Revoir Adios
+나답지 않다니 그럼 난 더
+wanna go bang bang
+웃으니 장난인 줄 아나 봐
+want me to hang man
+NA NA to the A A to the NO NO NO
+끝내 볼까 이제 너랑
+GO GO GO
+love me hate me
+하루에 몇 번씩 crazy
+이런 내가 oh ratatata—
+나에 대한 건 입도
+뻥긋 안 해줬으면 해
+I just wanna let you know
+내 두 귀에 안 들리게
+왜 넌 날 작아지게 해
+난 늘 널 맴돌기만 해
+왜 넌 날 슬퍼지게 해
+처음부터 주인공은 나였어야 해
+Goodbye Au Revoir Adios
+what
+Goodbye Au Revoir Adios
+yeah
+Goodbye Au Revoir Adios
+sh
+Goodbye Au Revoir Adios
+Goodbye Au Revoir Adios
+Lalalala oh— hey
+See You Later 다 필요 없어
+See You Later
+Goodbye Au Revoir Adios
+See You Later 다 필요 없어
+See You Later
+Goodbye Au Revoir Adios
+Nanana-nananana-nanananananana
+Nanana-nananana-nanananananana
+Nanana-nananana-nanananananana
+Nanana-nananana
+Goodbye Au Revoir Adios
+```
